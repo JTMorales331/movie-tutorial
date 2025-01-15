@@ -1,0 +1,13 @@
+a {
+  transition: all 0.3s ease;
+
+  &:hover {
+    @apply text-blue-500;
+  }
+
+  
+}
+
+.active {
+  color: #3b82f6; /* Tailwind's blue-500 */
+}

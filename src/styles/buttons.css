@@ -1,0 +1,3 @@
+.btn-main {
+  @apply btn btn-neutral btn-sm;
+}
